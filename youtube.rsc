@@ -1,6 +1,6 @@
 /ip firewall address-list
 remove [find comment=youtube]
-add list=rkn address=4.78.139.0/24 comment=youtube comment=youtube
+add list=rkn address=4.78.139.0/24 comment=youtube
 add list=rkn address=23.101.24.0/24 comment=youtube
 add list=rkn address=23.202.231.0/24 comment=youtube
 add list=rkn address=23.217.138.0/24 comment=youtube
