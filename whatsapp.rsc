@@ -1,3 +1,4 @@
+#https://github.com/HybridNetworks/whatsapp-cidr/blob/main/WhatsApp/whatsapp_domainlist.txt
 /ip firewall address-list
 remove [find comment=whatsapp]
 add address=api.whatsapp.com comment=whatsapp list=rkn

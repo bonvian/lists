@@ -1,3 +1,4 @@
+#https://github.com/touhidurrr/iplist-youtube/blob/main/lists/routerosv4.rsc
 /ip firewall address-list
 remove [find comment=youtube]
 add list=rkn address=4.78.139.0/24 comment=youtube 
