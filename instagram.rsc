@@ -1,4 +1,6 @@
 #https://github.com/v2fly/domain-list-community/blob/master/data/instagram
+/ip firewall address-list
+remove [find comment=instagram]
 add address=achat-followers-instagram.com comment=instagram list=rkn
 add address=acheter-followers-instagram.com comment=instagram list=rkn
 add address=acheterdesfollowersinstagram.com comment=instagram list=rkn
